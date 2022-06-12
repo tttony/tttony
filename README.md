@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tttony
-- 👀 I’m interested in C/C++, C#, Python languages
+- 👀 I’m interested in PHP, Symfony, Laravel, Javascript/Node, C/C++, C#, Python languages
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me only here, I don't have any social media
